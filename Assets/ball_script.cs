@@ -9,6 +9,7 @@ public class ball_script : MonoBehaviour
     private float actualBlendValue = 0.0f;
     public float RotateSpeed = 10f;
 
+    //Sons
     public AudioClip[] BoingClips;
     public AudioClip[] HumClips;
     public AudioClip[] ExplodeClips;
